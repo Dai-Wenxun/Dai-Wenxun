@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dai Wenxun</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dai-Wenxun&label=Profile%20views&color=red&style=flat" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dai-Wenxun&label=Profile%20views&color=red&style=flat" /> </p> -->
 
 - 🌱 I’m currently learning **C Compiler & AI4DB & SQL**
 - 👯 I’m currently developing [C-Compiler](https://github.com/Dai-Wenxun/C-Compiler)

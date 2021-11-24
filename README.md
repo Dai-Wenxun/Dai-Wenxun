@@ -11,5 +11,5 @@
 </p> -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dai-Wenxun&theme=ayu-mirage&layout=compact">
-  <img width='500px' src = "https://github-readme-stats.vercel.app/api?username=Dai-Wenxun&show_icons=true&theme=ayu-mirage&line_height=27">
+  <img width='400px' src = "https://github-readme-stats.vercel.app/api?username=Dai-Wenxun&show_icons=true&theme=ayu-mirage&line_height=27">
 </p>

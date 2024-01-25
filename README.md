@@ -7,3 +7,9 @@ Now, I am a Master's student at [Tsinghua University](https://www.tsinghua.edu.c
 - :two_men_holding_hands: Links: [Ling-Hao Chen](https://lhchen.top/), [Jingbo Wang](https://github.com/wangjingbo1219), [Haodong Duan](https://github.com/kennymckormick), [Yining Li](https://github.com/ly015), [Kai Chen](https://github.com/hellock)
 
 ![Dai-Wenxun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dai-Wenxun&theme=shades-of-purple&show_icons=true)
+
+> 每临绝境 峰回路又转, 慧行坚勇 究畅恒无极
+> 
+> Amidst adversity, peaks twirl, courage strides, transcending endless horizons.
+> 
+> 《空谷幽兰》[YouTube](https://www.youtube.com/watch?v=oq18ez0bzvw)

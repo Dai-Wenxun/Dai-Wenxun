@@ -8,5 +8,4 @@ Now, I am a Master's student at [Tsinghua University](https://www.tsinghua.edu.c
 
 ![Dai-Wenxun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dai-Wenxun&theme=shades-of-purple&show_icons=true)
 
-> 每临绝境 峰回路又转, 慧行坚勇 究畅恒无极
 > 《空谷幽兰》[YouTube](https://www.youtube.com/watch?v=oq18ez0bzvw)

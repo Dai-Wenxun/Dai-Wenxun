@@ -6,7 +6,7 @@ Now, I am a Master's student at [Tsinghua University](https://www.tsinghua.edu.c
 - 📫 How to reach me: **[Email](mailto:wxdai2001@gmail.com)** and **[Google Scholar](https://scholar.google.com/citations?user=AyH6-I8AAAAJ&hl=zh-CN)**
 - :two_men_holding_hands: Links: [Ling-Hao Chen](https://lhchen.top/), [Jingbo Wang](https://wangjingbo1219.github.io/), [Bo Dai](https://daibo.info/), [Haodong Duan](https://github.com/kennymckormick), [Yining Li](https://github.com/ly015), [Kai Chen](https://chenkai.site/)
 
-![Dai-Wenxun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dai-Wenxun&theme=shades-of-purple&show_icons=true)
+![Dai-Wenxun's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Dai-Wenxun&theme=shades-of-purple&show_icons=true&cache_seconds=86400&v=20260302)
 
 Reviewer: ECCV 2024, ICLR 2025, CVPR 2025.
 

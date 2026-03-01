@@ -8,6 +8,4 @@ Now, I am a Master's student at [Tsinghua University](https://www.tsinghua.edu.c
 
 ![Dai-Wenxun's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Dai-Wenxun&theme=shades-of-purple&show_icons=true&cache_seconds=86400&v=20260302)
 
-Reviewer: ECCV 2024, ICLR 2025, CVPR 2025.
 
-> 《空谷幽兰》[YouTube](https://www.youtube.com/watch?v=oq18ez0bzvw)
